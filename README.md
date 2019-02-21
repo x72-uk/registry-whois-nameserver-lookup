@@ -1,6 +1,8 @@
 # registry-whois-nameserver-lookup
 
 
+**Currently, *.co.uk, .uk, .org.uk and .com* domains have only been tested and the script is still in active devopment**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -34,3 +36,12 @@ https://x72.uk/nsl.php?domain=yourdomainhere
 
 * **regru** for creating the php-whois class which allowed me to get reliable results:
 - https://github.com/regru
+
+## To-Do list
+
+- Add comments to code
+- Add screen-shots
+- Add more TLD support *(Soon)*
+- Add method if domain is invalid or incorrect
+- Fix blank page on re-direct domains
+- Finalise Google Sheets support
