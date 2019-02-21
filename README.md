@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 In order to ultilise this script, you will need to download and install the php-whois class created by @regru: https://github.com/regru/php-whois
 
-## To install
+Once downloaded, extract the `src/Phois/Whois` folder from the archive and install it on the root system of your webserver (/home/xxxx**/src/Phois/Whois/**)
 
-Download the `src/Phois/Whois` folder from the master and install it on the root system of your webserver (/home/xxxx/**src/Phois/Whois/**)
+I would recommend always storing this script above your website folder.
 
 ### Installing
 
@@ -19,7 +19,7 @@ Download `nsl.php` from this master.
 
 Install the php script at the root of the website folder (/home/xxxx/**public_html**/ *OR* /var/www/vhosts/xxxx/**httpdocs**/).
 
-To use the tool, visit your domain followed by the domain you wish to query:
+To use the tool, visit your domain followed by the domain you wish to query (replacing my domain x72.uk):
 ```
 https://x72.uk/nsl.php?domain=yourdomainhere
 ```
