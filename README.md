@@ -24,10 +24,6 @@ To use the tool, visit your domain followed by the domain you wish to query (rep
 https://x72.uk/nsl.php?domain=yourdomainhere
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * Visual Studio Code: (https://code.visualstudio.com/) - Programming software used.
