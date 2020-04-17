@@ -23,7 +23,7 @@ Install the php script at the root of the website folder (/home/xxxx/**public_ht
 
 To use the tool, visit your domain followed by the domain you wish to query (replacing my domain x72.uk):
 ```
-https://xx7.dev/nsl.php?domain=yourdomainhere
+https://dev.x72.uk/nsl.php?domain=x72.uk
 ```
 
 ## Built With
